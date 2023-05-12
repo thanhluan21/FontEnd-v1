@@ -27,7 +27,7 @@ function Login(props) {
 
   return (
     <HelmetProvider>
-      <title>My Website Form ThanhLuan</title>
+      <title>My Website</title>
       <link rel="stylesheet" href="login.css" />
     <div className="sign-up">
          <div className="circle circle--red"></div>
